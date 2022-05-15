@@ -1,6 +1,6 @@
-export default interface {
-    bookTitle: string,
-    bookAuthor: string,
-    finishedReading: boolean,
-    ownership: Array<any>;
+export default class {
+    bookTitle: string;
+    bookAuthor: string;
+    finishedReading: boolean;
+    ownership: [];
 }
