@@ -35,7 +35,6 @@
 </template>
 
 <script>
-import { BookData as bookData } from './BookData';
 
 export default {
   name: "BookForm",

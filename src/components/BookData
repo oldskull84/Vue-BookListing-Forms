@@ -1,6 +1,0 @@
-export default class {
-    bookTitle: string;
-    bookAuthor: string;
-    finishedReading: boolean;
-    ownership: [];
-}
